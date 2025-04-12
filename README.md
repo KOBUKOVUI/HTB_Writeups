@@ -17,7 +17,7 @@ These are for **educational purposes** and are written to reinforce my knowledge
 | Dog          | Easy       | RCE exploit     | [View](./Writeups/HTB_Dog)       |
 | EscapTwo     | Medium     | MSSQL RCE       | [View](./Writeups/HTB_EscapeTwo) |
 | Titanic      | Easy       | LFI             | [View](./Writeups/HTB_Titanic)   |
-|UnderPass     | Easy       |directory fuzzing| [View](.Writeups/HTB_UnderPass)  |
+|UnderPass     | Easy       |directory fuzzing| [View](./Writeups/HTB_UnderPass)  |
 |Heal          | Easy       |                 | [View]  |
 
 
