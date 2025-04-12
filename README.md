@@ -8,7 +8,6 @@ This repository contains personal write-ups for Hack The Box machines I've compl
 These are for **educational purposes** and are written to reinforce my knowledge in penetration testing.
 ```
 -----
------
 ## 📚 Index
 
 | Box Name     | Difficulty | Category        | Link                             |
@@ -17,7 +16,7 @@ These are for **educational purposes** and are written to reinforce my knowledge
 | Code         | Easy       | python RCE      | [View](./Writeups/HTB_Code)      |
 | Dog          | Easy       | RCE exploit     | [View](./Writeups/HTB_Dog)       |
 | EscapTwo     | Medium     | MSSQL RCE       | [View](./Writeups/HTB_EscapeTwo) |
-| Titanic      | Easy       | LFI/            | [View](./Writeups/HTB_Titanic)   |
+| Titanic      | Easy       | LFI             | [View](./Writeups/HTB_Titanic)   |
 |UnderPass     | Easy       |directory fuzzing| [View](.Writeups/HTB_UnderPass)  |
 |Heal          | Easy       |                 | [View]  |
 
