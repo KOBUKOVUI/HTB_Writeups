@@ -6,7 +6,7 @@ Personal notes and write-ups of Hack The Box machines. Sharing what I learned fr
 
 This repository contains personal write-ups for Hack The Box machines I've completed.  
 These are for **educational purposes** and are written to reinforce my knowledge in penetration testing.
-
+```
 -----
 -----
 ## 📚 Index
@@ -19,6 +19,7 @@ These are for **educational purposes** and are written to reinforce my knowledge
 | EscapTwo     | Medium     | MSSQL RCE       | [View](./Writeups/HTB_EscapeTwo) |
 | Titanic      | Easy       | LFI/            | [View](./Writeups/HTB_Titanic)   |
 |UnderPass     | Easy       |directory fuzzing| [View](.Writeups/HTB_UnderPass)  |
+|Heal          | Easy       |                 | [View]  |
 
 
 -----
